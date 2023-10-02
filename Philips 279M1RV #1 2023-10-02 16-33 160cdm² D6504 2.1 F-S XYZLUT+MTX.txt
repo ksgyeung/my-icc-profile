@@ -1,0 +1,12 @@
+Brightness 30
+Contrast 50
+Gamma 2.2
+Red 100
+Green 77
+Blue 86
+
+result:
+160cd/m2
+gamma 2.1
+6512k
+
